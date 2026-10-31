@@ -1,0 +1,7 @@
+# Core Pipeline Dependencies
+pyspark>=3.5.0
+kafka-python>=2.0.2
+
+# Optional / Local Testing
+pytest>=8.0.0
+

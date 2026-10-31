@@ -1,0 +1,200 @@
+﻿{"id": 1, "user_id": 1, "session_id": 1, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-16T10:27:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 2, "user_id": 1, "session_id": 1, "event_type": "SEARCH", "timestamp": "2026-08-16T10:30:58", "product_id": null, "search_query": "usb hub", "quantity": null, "price": null}
+{"id": 3, "user_id": 1, "session_id": 1, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-16T10:33:31", "product_id": 43, "search_query": null, "quantity": null, "price": null}
+{"id": 4, "user_id": 2, "session_id": 2, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-12T14:01:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 5, "user_id": 2, "session_id": 2, "event_type": "SEARCH", "timestamp": "2026-08-12T14:03:34", "product_id": null, "search_query": "bluetooth hoparlÃ¶r", "quantity": null, "price": null}
+{"id": 6, "user_id": 2, "session_id": 2, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-12T14:07:12", "product_id": 11, "search_query": null, "quantity": null, "price": null}
+{"id": 7, "user_id": 2, "session_id": 3, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T16:05:12", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 8, "user_id": 2, "session_id": 3, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-13T16:08:42", "product_id": 46, "search_query": null, "quantity": null, "price": null}
+{"id": 9, "user_id": 2, "session_id": 3, "event_type": "ADD_TO_CART", "timestamp": "2026-08-13T16:11:20", "product_id": 46, "search_query": null, "quantity": 1, "price": null}
+{"id": 10, "user_id": 3, "session_id": 4, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-03T12:09:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 11, "user_id": 3, "session_id": 4, "event_type": "SEARCH", "timestamp": "2026-09-03T12:13:37", "product_id": null, "search_query": "bluetooth hoparlÃ¶r", "quantity": null, "price": null}
+{"id": 12, "user_id": 3, "session_id": 4, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-03T12:18:35", "product_id": 24, "search_query": null, "quantity": null, "price": null}
+{"id": 13, "user_id": 3, "session_id": 5, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-03T22:55:35", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 14, "user_id": 3, "session_id": 5, "event_type": "SEARCH", "timestamp": "2026-09-03T22:57:36", "product_id": null, "search_query": "bluetooth hoparlÃ¶r", "quantity": null, "price": null}
+{"id": 15, "user_id": 3, "session_id": 5, "event_type": "SEARCH", "timestamp": "2026-09-03T23:02:39", "product_id": null, "search_query": "gaming mouse", "quantity": null, "price": null}
+{"id": 16, "user_id": 3, "session_id": 5, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-03T23:03:36", "product_id": 18, "search_query": null, "quantity": null, "price": null}
+{"id": 17, "user_id": 4, "session_id": 6, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-25T10:45:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 18, "user_id": 4, "session_id": 7, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-25T20:58:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 19, "user_id": 4, "session_id": 7, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-25T21:02:15", "product_id": 5, "search_query": null, "quantity": null, "price": null}
+{"id": 20, "user_id": 5, "session_id": 8, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T10:06:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 21, "user_id": 5, "session_id": 8, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-13T10:07:07", "product_id": 21, "search_query": null, "quantity": null, "price": null}
+{"id": 22, "user_id": 5, "session_id": 9, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T15:43:07", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 23, "user_id": 6, "session_id": 10, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T18:31:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 24, "user_id": 6, "session_id": 10, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-13T18:36:40", "product_id": 24, "search_query": null, "quantity": null, "price": null}
+{"id": 25, "user_id": 6, "session_id": 11, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-14T08:06:40", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 26, "user_id": 6, "session_id": 11, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-14T08:10:56", "product_id": 4, "search_query": null, "quantity": null, "price": null}
+{"id": 27, "user_id": 6, "session_id": 12, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-14T19:06:56", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 28, "user_id": 6, "session_id": 12, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-14T19:07:56", "product_id": 26, "search_query": null, "quantity": null, "price": null}
+{"id": 29, "user_id": 7, "session_id": 13, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-31T10:23:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 30, "user_id": 7, "session_id": 13, "event_type": "SEARCH", "timestamp": "2026-08-31T10:24:58", "product_id": null, "search_query": "telefon kÄ±lÄ±fÄ±", "quantity": null, "price": null}
+{"id": 31, "user_id": 7, "session_id": 13, "event_type": "SEARCH", "timestamp": "2026-08-31T10:25:29", "product_id": null, "search_query": "webcam", "quantity": null, "price": null}
+{"id": 32, "user_id": 7, "session_id": 13, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-31T10:31:03", "product_id": 11, "search_query": null, "quantity": null, "price": null}
+{"id": 33, "user_id": 7, "session_id": 13, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-31T10:34:00", "product_id": 48, "search_query": null, "quantity": null, "price": null}
+{"id": 34, "user_id": 8, "session_id": 14, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-08T13:30:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 35, "user_id": 8, "session_id": 14, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-08T13:35:50", "product_id": 23, "search_query": null, "quantity": null, "price": null}
+{"id": 36, "user_id": 9, "session_id": 15, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-17T11:32:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 37, "user_id": 10, "session_id": 16, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-04T14:14:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 38, "user_id": 10, "session_id": 16, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-04T14:19:21", "product_id": 183, "search_query": null, "quantity": null, "price": null}
+{"id": 39, "user_id": 11, "session_id": 17, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-22T13:38:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 40, "user_id": 11, "session_id": 17, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-22T13:42:42", "product_id": 9, "search_query": null, "quantity": null, "price": null}
+{"id": 41, "user_id": 12, "session_id": 18, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-18T09:26:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 42, "user_id": 12, "session_id": 18, "event_type": "SEARCH", "timestamp": "2026-08-18T09:31:24", "product_id": null, "search_query": "powerbank", "quantity": null, "price": null}
+{"id": 43, "user_id": 13, "session_id": 19, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-03T11:59:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 44, "user_id": 13, "session_id": 19, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-03T12:03:16", "product_id": 177, "search_query": null, "quantity": null, "price": null}
+{"id": 45, "user_id": 13, "session_id": 19, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-03T12:08:45", "product_id": 9, "search_query": null, "quantity": null, "price": null}
+{"id": 46, "user_id": 14, "session_id": 20, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-20T14:28:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 47, "user_id": 14, "session_id": 20, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-20T14:29:52", "product_id": 4, "search_query": null, "quantity": null, "price": null}
+{"id": 48, "user_id": 15, "session_id": 21, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-05T18:23:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 49, "user_id": 15, "session_id": 21, "event_type": "SEARCH", "timestamp": "2026-09-05T18:24:15", "product_id": null, "search_query": "laptop standÄ±", "quantity": null, "price": null}
+{"id": 50, "user_id": 15, "session_id": 21, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-05T18:25:44", "product_id": 249, "search_query": null, "quantity": null, "price": null}
+{"id": 51, "user_id": 15, "session_id": 22, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-06T23:05:44", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 52, "user_id": 15, "session_id": 23, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-07T15:22:44", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 53, "user_id": 15, "session_id": 23, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-07T15:24:50", "product_id": 15, "search_query": null, "quantity": null, "price": null}
+{"id": 54, "user_id": 16, "session_id": 24, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-11T12:28:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 55, "user_id": 16, "session_id": 24, "event_type": "SEARCH", "timestamp": "2026-08-11T12:29:37", "product_id": null, "search_query": "bluetooth hoparlÃ¶r", "quantity": null, "price": null}
+{"id": 56, "user_id": 16, "session_id": 24, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-11T12:34:15", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 57, "user_id": 17, "session_id": 25, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-15T14:18:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 58, "user_id": 17, "session_id": 25, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-15T14:23:12", "product_id": 7, "search_query": null, "quantity": null, "price": null}
+{"id": 59, "user_id": 17, "session_id": 25, "event_type": "ADD_TO_CART", "timestamp": "2026-08-15T14:24:40", "product_id": 7, "search_query": null, "quantity": 1, "price": null}
+{"id": 60, "user_id": 17, "session_id": 25, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-15T14:26:28", "product_id": 14, "search_query": null, "quantity": null, "price": null}
+{"id": 61, "user_id": 18, "session_id": 26, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-05T17:14:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 62, "user_id": 19, "session_id": 27, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-22T12:15:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 63, "user_id": 20, "session_id": 28, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-06T10:11:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 64, "user_id": 20, "session_id": 28, "event_type": "SEARCH", "timestamp": "2026-09-06T10:15:02", "product_id": null, "search_query": "laptop standÄ±", "quantity": null, "price": null}
+{"id": 65, "user_id": 20, "session_id": 29, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-06T19:53:02", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 66, "user_id": 21, "session_id": 30, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-28T18:53:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 67, "user_id": 22, "session_id": 31, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-27T17:15:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 68, "user_id": 22, "session_id": 31, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-27T17:20:12", "product_id": 68, "search_query": null, "quantity": null, "price": null}
+{"id": 69, "user_id": 23, "session_id": 32, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-01T13:04:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 70, "user_id": 23, "session_id": 32, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-01T13:06:29", "product_id": 122, "search_query": null, "quantity": null, "price": null}
+{"id": 71, "user_id": 24, "session_id": 33, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-08T15:30:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 72, "user_id": 24, "session_id": 33, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-08T15:31:47", "product_id": 13, "search_query": null, "quantity": null, "price": null}
+{"id": 73, "user_id": 24, "session_id": 33, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-08T15:36:34", "product_id": 242, "search_query": null, "quantity": null, "price": null}
+{"id": 74, "user_id": 25, "session_id": 34, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T17:58:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 75, "user_id": 25, "session_id": 35, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-14T19:08:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 76, "user_id": 25, "session_id": 35, "event_type": "SEARCH", "timestamp": "2026-08-14T19:09:49", "product_id": null, "search_query": "mekanik klavye", "quantity": null, "price": null}
+{"id": 77, "user_id": 25, "session_id": 35, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-14T19:12:34", "product_id": 5, "search_query": null, "quantity": null, "price": null}
+{"id": 78, "user_id": 26, "session_id": 36, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-31T18:06:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 79, "user_id": 26, "session_id": 36, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-31T18:09:12", "product_id": 29, "search_query": null, "quantity": null, "price": null}
+{"id": 80, "user_id": 27, "session_id": 37, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-29T10:10:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 81, "user_id": 27, "session_id": 37, "event_type": "SEARCH", "timestamp": "2026-08-29T10:12:57", "product_id": null, "search_query": "akÄ±llÄ± saat", "quantity": null, "price": null}
+{"id": 82, "user_id": 27, "session_id": 37, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-29T10:17:09", "product_id": 262, "search_query": null, "quantity": null, "price": null}
+{"id": 83, "user_id": 28, "session_id": 38, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-19T09:29:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 84, "user_id": 28, "session_id": 38, "event_type": "SEARCH", "timestamp": "2026-08-19T09:29:58", "product_id": null, "search_query": "bluetooth hoparlÃ¶r", "quantity": null, "price": null}
+{"id": 85, "user_id": 28, "session_id": 38, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-19T09:34:08", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 86, "user_id": 29, "session_id": 39, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-15T11:59:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 87, "user_id": 29, "session_id": 39, "event_type": "SEARCH", "timestamp": "2026-08-15T12:02:45", "product_id": null, "search_query": "powerbank", "quantity": null, "price": null}
+{"id": 88, "user_id": 29, "session_id": 39, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-15T12:07:29", "product_id": 174, "search_query": null, "quantity": null, "price": null}
+{"id": 89, "user_id": 29, "session_id": 39, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-15T12:11:55", "product_id": 31, "search_query": null, "quantity": null, "price": null}
+{"id": 90, "user_id": 29, "session_id": 40, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-16T19:22:55", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 91, "user_id": 30, "session_id": 41, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-12T16:32:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 92, "user_id": 31, "session_id": 42, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-23T13:16:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 93, "user_id": 31, "session_id": 42, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-23T13:19:04", "product_id": 2, "search_query": null, "quantity": null, "price": null}
+{"id": 94, "user_id": 32, "session_id": 43, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-28T15:07:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 95, "user_id": 32, "session_id": 43, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-28T15:10:01", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 96, "user_id": 33, "session_id": 44, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-06T09:50:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 97, "user_id": 34, "session_id": 45, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-19T12:55:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 98, "user_id": 34, "session_id": 45, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-19T12:58:30", "product_id": 2, "search_query": null, "quantity": null, "price": null}
+{"id": 99, "user_id": 34, "session_id": 45, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-19T13:01:08", "product_id": 40, "search_query": null, "quantity": null, "price": null}
+{"id": 100, "user_id": 34, "session_id": 46, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-20T10:58:08", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 101, "user_id": 34, "session_id": 46, "event_type": "SEARCH", "timestamp": "2026-08-20T11:03:59", "product_id": null, "search_query": "kablosuz kulaklÄ±k", "quantity": null, "price": null}
+{"id": 102, "user_id": 34, "session_id": 46, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-20T11:08:14", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 103, "user_id": 34, "session_id": 47, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-20T14:43:14", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 104, "user_id": 35, "session_id": 48, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-16T11:15:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 105, "user_id": 35, "session_id": 48, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-16T11:18:37", "product_id": 16, "search_query": null, "quantity": null, "price": null}
+{"id": 106, "user_id": 36, "session_id": 49, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-25T14:02:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 107, "user_id": 36, "session_id": 49, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-25T14:05:23", "product_id": 88, "search_query": null, "quantity": null, "price": null}
+{"id": 108, "user_id": 36, "session_id": 50, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-25T19:24:23", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 109, "user_id": 36, "session_id": 50, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-25T19:26:48", "product_id": 125, "search_query": null, "quantity": null, "price": null}
+{"id": 110, "user_id": 36, "session_id": 51, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-27T04:57:48", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 111, "user_id": 37, "session_id": 52, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-22T09:14:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 112, "user_id": 37, "session_id": 52, "event_type": "SEARCH", "timestamp": "2026-08-22T09:15:33", "product_id": null, "search_query": "usb hub", "quantity": null, "price": null}
+{"id": 113, "user_id": 37, "session_id": 52, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-22T09:18:17", "product_id": 22, "search_query": null, "quantity": null, "price": null}
+{"id": 114, "user_id": 38, "session_id": 53, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-25T09:25:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 115, "user_id": 38, "session_id": 53, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-25T09:30:17", "product_id": 4, "search_query": null, "quantity": null, "price": null}
+{"id": 116, "user_id": 39, "session_id": 54, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-08T14:09:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 117, "user_id": 39, "session_id": 54, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-08T14:10:29", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 118, "user_id": 39, "session_id": 55, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-09T07:29:29", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 119, "user_id": 39, "session_id": 55, "event_type": "SEARCH", "timestamp": "2026-09-09T07:31:59", "product_id": null, "search_query": "telefon kÄ±lÄ±fÄ±", "quantity": null, "price": null}
+{"id": 120, "user_id": 39, "session_id": 55, "event_type": "SEARCH", "timestamp": "2026-09-09T07:36:21", "product_id": null, "search_query": "laptop standÄ±", "quantity": null, "price": null}
+{"id": 121, "user_id": 39, "session_id": 55, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-09T07:41:27", "product_id": 8, "search_query": null, "quantity": null, "price": null}
+{"id": 122, "user_id": 40, "session_id": 56, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T17:21:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 123, "user_id": 40, "session_id": 56, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-13T17:23:53", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 124, "user_id": 41, "session_id": 57, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-06T15:11:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 125, "user_id": 41, "session_id": 57, "event_type": "SEARCH", "timestamp": "2026-09-06T15:14:38", "product_id": null, "search_query": "telefon kÄ±lÄ±fÄ±", "quantity": null, "price": null}
+{"id": 126, "user_id": 41, "session_id": 58, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-07T03:59:38", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 127, "user_id": 41, "session_id": 58, "event_type": "SEARCH", "timestamp": "2026-09-07T04:02:29", "product_id": null, "search_query": "akÄ±llÄ± saat", "quantity": null, "price": null}
+{"id": 128, "user_id": 41, "session_id": 59, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-07T07:40:29", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 129, "user_id": 41, "session_id": 59, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-07T07:46:27", "product_id": 31, "search_query": null, "quantity": null, "price": null}
+{"id": 130, "user_id": 42, "session_id": 60, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-14T18:38:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 131, "user_id": 42, "session_id": 60, "event_type": "SEARCH", "timestamp": "2026-08-14T18:43:13", "product_id": null, "search_query": "akÄ±llÄ± saat", "quantity": null, "price": null}
+{"id": 132, "user_id": 42, "session_id": 60, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-14T18:45:42", "product_id": 4, "search_query": null, "quantity": null, "price": null}
+{"id": 133, "user_id": 42, "session_id": 60, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-14T18:51:17", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 134, "user_id": 43, "session_id": 61, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-04T11:58:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 135, "user_id": 43, "session_id": 61, "event_type": "SEARCH", "timestamp": "2026-09-04T11:58:43", "product_id": null, "search_query": "gaming mouse", "quantity": null, "price": null}
+{"id": 136, "user_id": 43, "session_id": 61, "event_type": "SEARCH", "timestamp": "2026-09-04T12:01:14", "product_id": null, "search_query": "powerbank", "quantity": null, "price": null}
+{"id": 137, "user_id": 43, "session_id": 61, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-04T12:03:13", "product_id": 3, "search_query": null, "quantity": null, "price": null}
+{"id": 138, "user_id": 43, "session_id": 61, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-04T12:07:18", "product_id": 15, "search_query": null, "quantity": null, "price": null}
+{"id": 139, "user_id": 44, "session_id": 62, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-26T10:51:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 140, "user_id": 44, "session_id": 62, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-26T10:53:23", "product_id": 213, "search_query": null, "quantity": null, "price": null}
+{"id": 141, "user_id": 44, "session_id": 62, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-26T10:58:19", "product_id": 4, "search_query": null, "quantity": null, "price": null}
+{"id": 142, "user_id": 44, "session_id": 63, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-26T13:33:19", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 143, "user_id": 45, "session_id": 64, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-25T16:34:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 144, "user_id": 45, "session_id": 64, "event_type": "SEARCH", "timestamp": "2026-08-25T16:35:11", "product_id": null, "search_query": "laptop standÄ±", "quantity": null, "price": null}
+{"id": 145, "user_id": 45, "session_id": 64, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-25T16:36:14", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 146, "user_id": 46, "session_id": 65, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-22T18:03:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 147, "user_id": 46, "session_id": 65, "event_type": "SEARCH", "timestamp": "2026-08-22T18:07:48", "product_id": null, "search_query": "powerbank", "quantity": null, "price": null}
+{"id": 148, "user_id": 46, "session_id": 65, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-22T18:09:16", "product_id": 119, "search_query": null, "quantity": null, "price": null}
+{"id": 149, "user_id": 46, "session_id": 66, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-23T19:16:16", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 150, "user_id": 47, "session_id": 67, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-23T14:47:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 151, "user_id": 47, "session_id": 68, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-24T05:29:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 152, "user_id": 47, "session_id": 68, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-24T05:32:10", "product_id": 8, "search_query": null, "quantity": null, "price": null}
+{"id": 153, "user_id": 48, "session_id": 69, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-08T17:05:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 154, "user_id": 48, "session_id": 69, "event_type": "SEARCH", "timestamp": "2026-09-08T17:06:13", "product_id": null, "search_query": "mekanik klavye", "quantity": null, "price": null}
+{"id": 155, "user_id": 48, "session_id": 69, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-08T17:09:53", "product_id": 92, "search_query": null, "quantity": null, "price": null}
+{"id": 156, "user_id": 49, "session_id": 70, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-20T11:05:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 157, "user_id": 49, "session_id": 70, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-20T11:09:06", "product_id": 131, "search_query": null, "quantity": null, "price": null}
+{"id": 158, "user_id": 50, "session_id": 71, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T18:51:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 159, "user_id": 50, "session_id": 71, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-13T18:52:49", "product_id": 35, "search_query": null, "quantity": null, "price": null}
+{"id": 160, "user_id": 50, "session_id": 71, "event_type": "ADD_TO_CART", "timestamp": "2026-08-13T18:54:14", "product_id": 35, "search_query": null, "quantity": 1, "price": null}
+{"id": 162, "user_id": 50, "session_id": 71, "event_type": "PURCHASE", "timestamp": "2026-08-13T18:55:42", "product_id": 35, "search_query": null, "quantity": 1, "price": 1183.79}
+{"id": 163, "user_id": 51, "session_id": 72, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-17T16:19:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 164, "user_id": 52, "session_id": 73, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-27T09:26:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 165, "user_id": 52, "session_id": 73, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-27T09:28:46", "product_id": 1, "search_query": null, "quantity": null, "price": null}
+{"id": 166, "user_id": 52, "session_id": 73, "event_type": "ADD_TO_CART", "timestamp": "2026-08-27T09:31:54", "product_id": 1, "search_query": null, "quantity": 3, "price": null}
+{"id": 168, "user_id": 52, "session_id": 73, "event_type": "PURCHASE", "timestamp": "2026-08-27T09:33:56", "product_id": 1, "search_query": null, "quantity": 3, "price": 173.8}
+{"id": 169, "user_id": 53, "session_id": 74, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-31T15:50:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 170, "user_id": 53, "session_id": 74, "event_type": "SEARCH", "timestamp": "2026-08-31T15:55:54", "product_id": null, "search_query": "kablosuz kulaklÄ±k", "quantity": null, "price": null}
+{"id": 171, "user_id": 53, "session_id": 74, "event_type": "SEARCH", "timestamp": "2026-08-31T16:00:55", "product_id": null, "search_query": "akÄ±llÄ± saat", "quantity": null, "price": null}
+{"id": 172, "user_id": 53, "session_id": 74, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-31T16:05:17", "product_id": 5, "search_query": null, "quantity": null, "price": null}
+{"id": 173, "user_id": 54, "session_id": 75, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-29T10:26:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 174, "user_id": 54, "session_id": 76, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-29T16:19:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 175, "user_id": 54, "session_id": 76, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-29T16:19:55", "product_id": 39, "search_query": null, "quantity": null, "price": null}
+{"id": 176, "user_id": 54, "session_id": 76, "event_type": "ADD_TO_CART", "timestamp": "2026-08-29T16:24:02", "product_id": 39, "search_query": null, "quantity": 1, "price": null}
+{"id": 178, "user_id": 54, "session_id": 76, "event_type": "PURCHASE", "timestamp": "2026-08-29T16:26:51", "product_id": 39, "search_query": null, "quantity": 1, "price": 1102.5}
+{"id": 179, "user_id": 54, "session_id": 77, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-30T00:18:51", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 180, "user_id": 54, "session_id": 77, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-30T00:20:19", "product_id": 5, "search_query": null, "quantity": null, "price": null}
+{"id": 181, "user_id": 54, "session_id": 77, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-30T00:25:52", "product_id": 12, "search_query": null, "quantity": null, "price": null}
+{"id": 182, "user_id": 55, "session_id": 78, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-29T09:56:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 183, "user_id": 55, "session_id": 78, "event_type": "SEARCH", "timestamp": "2026-08-29T09:59:04", "product_id": null, "search_query": "akÄ±llÄ± saat", "quantity": null, "price": null}
+{"id": 184, "user_id": 55, "session_id": 78, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-29T10:01:44", "product_id": 3, "search_query": null, "quantity": null, "price": null}
+{"id": 185, "user_id": 55, "session_id": 78, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-29T10:06:28", "product_id": 61, "search_query": null, "quantity": null, "price": null}
+{"id": 186, "user_id": 55, "session_id": 78, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-29T10:10:12", "product_id": 16, "search_query": null, "quantity": null, "price": null}
+{"id": 187, "user_id": 55, "session_id": 78, "event_type": "ADD_TO_CART", "timestamp": "2026-08-29T10:15:28", "product_id": 16, "search_query": null, "quantity": 2, "price": null}
+{"id": 188, "user_id": 56, "session_id": 79, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-11T16:26:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 189, "user_id": 56, "session_id": 79, "event_type": "SEARCH", "timestamp": "2026-08-11T16:27:09", "product_id": null, "search_query": "laptop standÄ±", "quantity": null, "price": null}
+{"id": 190, "user_id": 56, "session_id": 79, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-11T16:32:32", "product_id": 7, "search_query": null, "quantity": null, "price": null}
+{"id": 191, "user_id": 56, "session_id": 80, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-11T20:58:32", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 192, "user_id": 56, "session_id": 80, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-11T21:01:48", "product_id": 2, "search_query": null, "quantity": null, "price": null}
+{"id": 193, "user_id": 57, "session_id": 81, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-21T10:30:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 194, "user_id": 57, "session_id": 81, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-21T10:31:24", "product_id": 3, "search_query": null, "quantity": null, "price": null}
+{"id": 195, "user_id": 58, "session_id": 82, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-19T14:47:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 196, "user_id": 58, "session_id": 82, "event_type": "SEARCH", "timestamp": "2026-08-19T14:48:56", "product_id": null, "search_query": "mekanik klavye", "quantity": null, "price": null}
+{"id": 197, "user_id": 58, "session_id": 82, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-19T14:50:24", "product_id": 16, "search_query": null, "quantity": null, "price": null}
+{"id": 198, "user_id": 58, "session_id": 82, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-19T14:53:52", "product_id": 5, "search_query": null, "quantity": null, "price": null}
+{"id": 199, "user_id": 59, "session_id": 83, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-08-13T11:29:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 200, "user_id": 59, "session_id": 83, "event_type": "SEARCH", "timestamp": "2026-08-13T11:30:58", "product_id": null, "search_query": "powerbank", "quantity": null, "price": null}
+{"id": 201, "user_id": 59, "session_id": 83, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-08-13T11:32:06", "product_id": 2, "search_query": null, "quantity": null, "price": null}
+{"id": 202, "user_id": 60, "session_id": 84, "event_type": "PRODUCT_LIST_VIEW", "timestamp": "2026-09-03T18:53:00", "product_id": null, "search_query": null, "quantity": null, "price": null}
+{"id": 203, "user_id": 60, "session_id": 84, "event_type": "PRODUCT_DETAIL_VIEW", "timestamp": "2026-09-03T18:58:19", "product_id": 32, "search_query": null, "quantity": null, "price": null}

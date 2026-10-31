@@ -1,0 +1,64 @@
+# ==============================================================================
+# Git Ignore for E-Commerce Data Pipeline
+# ==============================================================================
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Airflow Logs & Local State
+orchestration/logs/
+orchestration/airflow.cfg
+orchestration/airflow.db
+*.pid
+
+# Big Data & Large Datasets (GitHub 100MB File Size Limit)
+*.jsonl
+*.parquet
+*.csv
+*.tar.gz
+*.zip
+
+# Allow sample data files for testing
+!data-generation/sample_events.jsonl
+!spark-analytics/data/events_sample.jsonl
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
