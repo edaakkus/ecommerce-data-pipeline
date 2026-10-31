@@ -11,13 +11,13 @@ This project demonstrates advanced data engineering practices including **probab
 ```mermaid
 flowchart TD
     subgraph DataGen["1. Data Modeling & Generation"]
-        A["Markov Chain Engine<br/>(Zipf Distribution, 30-Day Window)"] -->|Streaming JSONL| B["5M+ E-Commerce Events<br/>(events_5m.jsonl)"]
-        A -.->|Data Contract| DB["PostgreSQL / Supabase<br/>(CHECK Constraints)"]
+        A["Markov Chain Engine<br/>(Zipf Distribution, 30-Day Window)"] -->|"Streaming JSONL"| B["5M+ E-Commerce Events<br/>(events_5m.jsonl)"]
+        A -.->|"Data Contract"| DB["PostgreSQL / Supabase<br/>(CHECK Constraints)"]
     end
 
     subgraph Streaming["2. Streaming Ingestion"]
-        B -.->|Producer| K1["Apache Kafka Broker<br/>(ecommerce-events / 3 Partitions)"]
-        K1 -->|Consumer| K2["Python Consumer &<br/>Spark-SQL-Kafka Connector"]
+        B -.->|"Producer"| K1["Apache Kafka Broker<br/>(ecommerce-events / 3 Partitions)"]
+        K1 -->|"Consumer"| K2["Python Consumer &<br/>Spark-SQL-Kafka Connector"]
     end
 
     subgraph Orchestration["3. Pipeline Orchestration"]
@@ -28,7 +28,7 @@ flowchart TD
     end
 
     subgraph DWH["4. Cloud Data Warehouse & Analytics"]
-        B -->|split_events.py (11 Parts)| G["Google BigQuery"]
+        B -->|"split_events.py (11 Chunks)"| G["Google BigQuery"]
         G --> H["Deduplication<br/>(events_clean)"]
         H --> I["Funnel & Product KPI Analytics"]
         H --> J["RFM Customer Segmentation<br/>(51.8k Buyers)"]
